@@ -3,15 +3,18 @@
 ( ﾟ∀。)
 
 - [leetcode-solutions](#leetcode-solutions)
-  - [List of Problems](#list-of-problems)
+  - [Leetcode](#leetcode)
     - [hashmap](#hashmap)
+  - [HackerRank](#hackerrank)
   - [About](#about)
 
-## List of Problems
+## Leetcode
 
 ### hashmap
 
-[0359_logger-rate-limiter](./0359_logger-rate-limiter/README.md)
+[0359_logger-rate-limiter](./leetcode/0359_logger-rate-limiter/README.md)
+
+## HackerRank
 
 ## About
 
