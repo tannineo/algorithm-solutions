@@ -1,14 +1,18 @@
 # leetcode-solutions
 
-( ﾟ∀。)
+orz
 
 - [leetcode-solutions](#leetcode-solutions)
-  - [Leetcode](#leetcode)
+  - [LeetCode](#leetcode)
     - [hashmap](#hashmap)
   - [HackerRank](#hackerrank)
   - [About](#about)
 
-## Leetcode
+## LeetCode
+
+LeetCode problem routes reference:
+
+- https://www.youtube.com/user/xxfflower
 
 ### hashmap
 
