@@ -1,0 +1,11 @@
+{
+  "name": "algorithm-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tannineo/solutions-leetcode-hackerrank.git",
+  "author": "tannineo <tannineo@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

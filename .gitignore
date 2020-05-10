@@ -1,0 +1,13 @@
+node_modules/
+
+# vscode
+.vscode/
+
+# lock files
+yarn.lock
+package-lock.json
+
+# OS files
+Thumbs.db
+.DS_Store
+Icon
