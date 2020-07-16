@@ -6,6 +6,7 @@ orz
   - [LeetCode](#leetcode)
     - [important](#important)
     - [hashmap](#hashmap)
+    - [maths](#maths)
   - [HackerRank](#hackerrank)
   - [Other Platforms](#other-platforms)
   - [About](#about)
@@ -28,12 +29,16 @@ LeetCode problem routes reference:
 
 ### important
 
-- [0169_majority-element](./leetcode/0169_majority-element/README.md)
+- [0169_majority-element](./leetcode/0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 
 ### hashmap
 
-- [0359_logger-rate-limiter](./leetcode/0359_logger-rate-limiter/README.md)
+- [0359_logger-rate-limiter](./leetcode/0359_logger-rate-limiter)
+
+### maths
+
+- [0976_largest-perimeter-triangle](./leetcode/0976_largest-perimeter-triangle)
 
 ## HackerRank
 
