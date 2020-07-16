@@ -30,6 +30,8 @@ LeetCode problem routes reference:
 
 ### important
 
+- [0053_maximum-subarray](./leetcode/0053_maximum-subarray)
+  - dynamic programming, divide and conquer
 - [0169_majority-element](./leetcode/0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 
