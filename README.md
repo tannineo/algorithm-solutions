@@ -21,6 +21,7 @@ orz
 
 LeetCode problem routes reference:
 
+- Leetcode Explore
 - Huahua's Blog: https://zxi.mytechroad.com/blog/
   - the blog have:
     - a categorized problem list: https://zxi.mytechroad.com/blog/leetcode-problem-categories/
