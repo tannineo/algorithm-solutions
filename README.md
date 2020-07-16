@@ -7,6 +7,7 @@ orz
     - [important](#important)
     - [hashmap](#hashmap)
     - [maths](#maths)
+    - [misc](#misc)
   - [HackerRank](#hackerrank)
   - [Other Platforms](#other-platforms)
   - [About](#about)
@@ -39,6 +40,10 @@ LeetCode problem routes reference:
 ### maths
 
 - [0976_largest-perimeter-triangle](./leetcode/0976_largest-perimeter-triangle)
+
+### misc
+
+- [0202_happy-number](./leetcode/0202_happy-number)
 
 ## HackerRank
 
