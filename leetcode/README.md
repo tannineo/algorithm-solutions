@@ -25,6 +25,7 @@ Problems list.
 
 ## misc
 
+- [0049_group-anagrams](./0049_group-anagrams)
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0202_happy-number](./0202_happy-number)
 - [0283_move-zeroes](./0283_move-zeroes)
