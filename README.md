@@ -47,6 +47,7 @@ LeetCode problem routes reference:
 ### misc
 
 - [0202_happy-number](./leetcode/0202_happy-number)
+- [0283_move-zeroes](./leetcode/0283_move-zeroes)
 
 ## HackerRank
 
