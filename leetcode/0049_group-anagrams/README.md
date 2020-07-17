@@ -18,4 +18,4 @@ output 是一个二维slice, 不用在意里面元素的顺序.
 
 - 对每个字符串sort, 然后比较字符串
 
-Accepted. 说明费时的例子: `len(strs)`比较大, 遍历它很费时.
+Accepted. 说明费时的例子: `len(strs)`比较大, 且基本都不是anagram, 遍历所得到的`result [][]string`很费时.
