@@ -9,6 +9,7 @@ Problems list.
     - [linked list](#linked-list)
     - [stack](#stack)
   - [maths](#maths)
+  - [dp](#dp)
   - [misc](#misc)
 
 ## important
@@ -35,6 +36,10 @@ Problems list.
 ## maths
 
 - [0976_largest-perimeter-triangle](./0976_largest-perimeter-triangle)
+
+## dp
+
+- [0712_minimum-ascii-delete-sum-for-two-strings](./0712_minimum-ascii-delete-sum-for-two-strings)
 
 ## misc
 
