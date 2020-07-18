@@ -4,9 +4,11 @@ Problems list.
 
 - [leetcode](#leetcode)
   - [important](#important)
-  - [hashmap](#hashmap)
+  - [data structures](#data-structures)
+    - [hashmap](#hashmap)
+    - [linked list](#linked-list)
+    - [stack](#stack)
   - [maths](#maths)
-  - [linked list](#linked-list)
   - [misc](#misc)
 
 ## important
@@ -16,17 +18,25 @@ Problems list.
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 
-## hashmap
+## data structures
+
+### hashmap
 
 - [0359_logger-rate-limiter](./0359_logger-rate-limiter)
+
+### linked list
+
+- [0876_middle-of-the-linked-list](./0876_middle-of-the-linked-list)
+
+### stack
+
+- [0155_min-stack](./0155_min-stack)
 
 ## maths
 
 - [0976_largest-perimeter-triangle](./0976_largest-perimeter-triangle)
 
-## linked list
 
-- [0876_middle-of-the-linked-list](./0876_middle-of-the-linked-list)
 
 ## misc
 
