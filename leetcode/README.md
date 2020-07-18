@@ -6,6 +6,7 @@ Problems list.
   - [important](#important)
   - [hashmap](#hashmap)
   - [maths](#maths)
+  - [linked list](#linked-list)
   - [misc](#misc)
 
 ## important
@@ -22,6 +23,10 @@ Problems list.
 ## maths
 
 - [0976_largest-perimeter-triangle](./0976_largest-perimeter-triangle)
+
+## linked list
+
+- [0876_middle-of-the-linked-list](./0876_middle-of-the-linked-list)
 
 ## misc
 
