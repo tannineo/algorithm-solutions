@@ -36,12 +36,11 @@ Problems list.
 
 - [0976_largest-perimeter-triangle](./0976_largest-perimeter-triangle)
 
-
-
 ## misc
 
 - [0049_group-anagrams](./0049_group-anagrams)
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0202_happy-number](./0202_happy-number)
 - [0283_move-zeroes](./0283_move-zeroes)
+- [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [1426_counting-elements](./1426_counting-elements)
