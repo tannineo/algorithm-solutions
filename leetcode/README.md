@@ -29,3 +29,4 @@ Problems list.
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0202_happy-number](./0202_happy-number)
 - [0283_move-zeroes](./0283_move-zeroes)
+- [1426_counting-elements](./1426_counting-elements)
