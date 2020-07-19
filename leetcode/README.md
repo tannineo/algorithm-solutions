@@ -8,6 +8,7 @@ Problems list.
     - [hashmap](#hashmap)
     - [linked list](#linked-list)
     - [stack](#stack)
+    - [tree](#tree)
   - [maths](#maths)
   - [dp](#dp)
   - [misc](#misc)
@@ -32,6 +33,10 @@ Problems list.
 ### stack
 
 - [0155_min-stack](./0155_min-stack)
+
+### tree
+
+- [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 
 ## maths
 
