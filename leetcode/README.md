@@ -61,3 +61,4 @@ Problems list.
 - [0283_move-zeroes](./0283_move-zeroes)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [1426_counting-elements](./1426_counting-elements)
+- [1427_perform-string-shifts](./1427_perform-string-shifts)
