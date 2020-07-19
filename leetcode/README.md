@@ -53,4 +53,5 @@ Problems list.
 - [0202_happy-number](./0202_happy-number)
 - [0283_move-zeroes](./0283_move-zeroes)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
+- [1046_last-stone-weight](./1046_last-stone-weight)
 - [1426_counting-elements](./1426_counting-elements)
