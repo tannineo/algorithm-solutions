@@ -20,6 +20,8 @@ Problems list.
   - dynamic programming, divide and conquer
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
+- [0525_contiguous-array](./0525_contiguous-array)
+  - "coloring the balloons"
 
 ## data structures
 
