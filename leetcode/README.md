@@ -42,6 +42,7 @@ Problems list.
 ### tree
 
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
+- [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
 
 ### heap
 
