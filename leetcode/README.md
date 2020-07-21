@@ -16,6 +16,8 @@ Problems list.
 
 ## important
 
+- [0033_search-in-rotated-sorted-array](./0033_search-in-rotated-sorted-array)
+  - binary search
 - [0053_maximum-subarray](./0053_maximum-subarray)
   - dynamic programming, divide and conquer
 - [0169_majority-element](./0169_majority-element)
