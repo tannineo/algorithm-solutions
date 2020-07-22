@@ -1,7 +1,7 @@
 package main
 
 func rangeBitwiseAnd(m int, n int) int {
-	if m == n {
+	if m == n || m == 0 {
 		return m
 	}
 
