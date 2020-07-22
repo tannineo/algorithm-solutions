@@ -35,6 +35,7 @@ Problems list.
 
 ### linked list
 
+- [0146_lru-cache](,/0146_lru-cache): double linked list with map
 - [0876_middle-of-the-linked-list](./0876_middle-of-the-linked-list)
 
 ### stack
