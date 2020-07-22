@@ -13,6 +13,7 @@ Problems list.
   - [maths](#maths)
   - [dp](#dp)
   - [string](#string)
+  - [bitwise](#bitwise)
   - [misc](#misc)
 
 ## important
@@ -62,6 +63,10 @@ Problems list.
 ## string
 
 - [0560_subarray-sum-equals-k](./0560_subarray-sum-equals-k)
+
+## bitwise
+
+- [0201_bitwise-and-of-numbers-range](./0201_bitwise-and-of-numbers-range)
 
 ## misc
 
