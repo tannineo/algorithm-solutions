@@ -56,6 +56,27 @@ Complexity:
 - time: `O(n)`
 - space: `O(1)`
 
+```go
+func majorityElement(nums []int) int {
+  count := 0
+  var result int
+  for _, v := range nums {
+    if count == 0 {
+      count++
+      result = v
+    } else {
+      if v == result {
+        count++
+      } else {
+        count--
+      }
+    }
+  }
+
+  return result
+}
+```
+
 ### Full Sort
 
 Use quicksort, we don't have to maintain the elements relative order, so use unstable sort.
