@@ -1,6 +1,6 @@
 # 0278_first-bad-version
 
-二分法
+二分法 注意边界
 
 ```go
 /**
