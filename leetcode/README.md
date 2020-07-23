@@ -61,6 +61,7 @@ Problems list.
 - [0064_minimum-path-sum](./0064_minimum-path-sum)
 - [0678_valid-parenthesis-string](./0678_valid-parenthesis-string)
 - [0712_minimum-ascii-delete-sum-for-two-strings](./0712_minimum-ascii-delete-sum-for-two-strings)
+- [1143_longest-common-subsequence](./1143_longest-common-subsequence)
 
 ## string
 
