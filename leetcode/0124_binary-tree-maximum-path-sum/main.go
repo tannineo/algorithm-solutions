@@ -32,9 +32,12 @@ func maxPathSumWithMaxSumRoot2Leaf(root *TreeNode) (pathSum, rootLeafSum int) {
 		return
 	}
 
+	// calculate only one side
 	if root.Left == nil {
 		rightPathSum, rightRootLeafSum := maxPathSumWithMaxSumRoot2Leaf(root.Right)
 		rootLeafSum = max(root.Val, rightRootLeafSum+root.Val)
+
+		// when calculate pathSum, the left|right RootLeafSum might be cast aside
 		if rightRootLeafSum < 0 {
 			rightRootLeafSum = 0
 		}
@@ -43,6 +46,8 @@ func maxPathSumWithMaxSumRoot2Leaf(root *TreeNode) (pathSum, rootLeafSum int) {
 	} else if root.Right == nil {
 		leftPathSum, leftRootLeafSum := maxPathSumWithMaxSumRoot2Leaf(root.Left)
 		rootLeafSum = max(root.Val, leftRootLeafSum+root.Val)
+
+		// when calculate pathSum, the left|right RootLeafSum might be cast aside
 		if leftRootLeafSum < 0 {
 			leftRootLeafSum = 0
 		}
@@ -50,11 +55,13 @@ func maxPathSumWithMaxSumRoot2Leaf(root *TreeNode) (pathSum, rootLeafSum int) {
 		return
 	}
 
+	// calculate both side
 	leftPathSum, leftRootLeafSum := maxPathSumWithMaxSumRoot2Leaf(root.Left)
 	rightPathSum, rightRootLeafSum := maxPathSumWithMaxSumRoot2Leaf(root.Right)
 
 	rootLeafSum = max(root.Val, max(leftRootLeafSum, rightRootLeafSum)+root.Val)
 
+	// when calculate pathSum, the left|right RootLeafSum might be cast aside
 	if leftRootLeafSum < 0 {
 		leftRootLeafSum = 0
 	}
