@@ -5,7 +5,6 @@ Problems list.
 - [leetcode](#leetcode)
   - [important](#important)
   - [data structures](#data-structures)
-    - [hashmap](#hashmap)
     - [linked list](#linked-list)
     - [stack](#stack)
     - [tree](#tree)
@@ -29,10 +28,6 @@ Problems list.
 
 ## data structures
 
-### hashmap
-
-- [0359_logger-rate-limiter](./0359_logger-rate-limiter)
-
 ### linked list
 
 - [0146_lru-cache](,/0146_lru-cache): double linked list with map
@@ -47,6 +42,7 @@ Problems list.
 
 - [0124_binary-tree-maximum-path-sum](0124_binary-tree-maximum-path-sum): HARD
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
+- [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
 - [1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](./1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
 
@@ -73,6 +69,7 @@ Problems list.
 ## bitwise
 
 - [0201_bitwise-and-of-numbers-range](./0201_bitwise-and-of-numbers-range)
+- [0476_number-complement](./0476_number-complement)
 
 ## misc
 
@@ -82,7 +79,12 @@ Problems list.
 - [0202_happy-number](./0202_happy-number)
 - [0221_maximal-square](./0221_maximal-square)
 - [0238_product-of-array-except-self](./0238_product-of-array-except-self)
+- [0278_first-bad-version](./0278_first-bad-version): binary search
 - [0283_move-zeroes](./0283_move-zeroes)
+- [0359_logger-rate-limiter](./0359_logger-rate-limiter)
+- [0383_ransom-note](./0383_ransom-note)
+- [0387_first-unique-character-in-a-string](./0387_first-unique-character-in-a-string)
+- [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [1426_counting-elements](./1426_counting-elements)
 - [1427_perform-string-shifts](./1427_perform-string-shifts)
