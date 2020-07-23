@@ -48,6 +48,7 @@ Problems list.
 - [0124_binary-tree-maximum-path-sum](0124_binary-tree-maximum-path-sum): HARD
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
+- [1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](./1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
 
 ### heap
 
