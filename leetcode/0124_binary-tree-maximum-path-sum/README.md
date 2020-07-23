@@ -40,4 +40,4 @@
 
 ## 联动
 
-[0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
+[0543_diameter-of-binary-tree](../0543_diameter-of-binary-tree)
