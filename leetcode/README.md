@@ -40,7 +40,8 @@ Problems list.
 
 ### tree
 
-- [0124_binary-tree-maximum-path-sum](0124_binary-tree-maximum-path-sum): HARD
+- [0124_binary-tree-maximum-path-sum](./0124_binary-tree-maximum-path-sum): HARD
+- [0208_implement-trie-prefix-tree](./0208_implement-trie-prefix-tree)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 - [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
