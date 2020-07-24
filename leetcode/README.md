@@ -88,6 +88,7 @@ Problems list.
 - [0387_first-unique-character-in-a-string](./0387_first-unique-character-in-a-string)
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
+- [0997_find-the-town-judge](./0997_find-the-town-judge)
 - [1426_counting-elements](./1426_counting-elements)
 - [1427_perform-string-shifts](./1427_perform-string-shifts)
 - [1428_leftmost-column-with-at-least-a-one](./1428_leftmost-column-with-at-least-a-one)
