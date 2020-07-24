@@ -86,6 +86,7 @@ Problems list.
 - [0359_logger-rate-limiter](./0359_logger-rate-limiter)
 - [0383_ransom-note](./0383_ransom-note)
 - [0387_first-unique-character-in-a-string](./0387_first-unique-character-in-a-string)
+- [0540_single-element-in-a-sorted-array](./0540_single-element-in-a-sorted-array)
 - [0733_flood-fill](./0733_flood-fill)
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
