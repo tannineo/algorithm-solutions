@@ -93,6 +93,7 @@ Problems list.
 - [0402_remove-k-digits](./0402_remove-k-digits): greedy
 - [0438_find-all-anagrams-in-a-string](./0438_find-all-anagrams-in-a-string)
 - [0540_single-element-in-a-sorted-array](./0540_single-element-in-a-sorted-array)
+- [0567_permutation-in-string](./0567_permutation-in-string)
 - [0733_flood-fill](./0733_flood-fill)
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
