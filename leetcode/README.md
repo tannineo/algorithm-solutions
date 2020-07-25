@@ -25,6 +25,8 @@ Problems list.
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 - [0525_contiguous-array](./0525_contiguous-array)
   - "coloring the balloons"
+- [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
+  - dp
 
 ## data structures
 
