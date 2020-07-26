@@ -23,6 +23,8 @@ Problems list.
   - dynamic programming, divide and conquer
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
+- [0230_kth-smallest-element-in-a-bst](./0230_kth-smallest-element-in-a-bst)
+  - BST, in-order traversal
 - [0525_contiguous-array](./0525_contiguous-array)
   - "coloring the balloons"
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
