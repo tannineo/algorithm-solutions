@@ -6,4 +6,4 @@
 
 - while stack内有元素 && 栈顶元素的stock price <= 当前stock price:
   - pop, 当前stock price += 被pop元素的stock price
-  - 循环结束后push, 返回当前stock price
+- 循环结束后push, 返回当前stock price
