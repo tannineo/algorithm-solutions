@@ -8,6 +8,7 @@ Problems list.
     - [linked list](#linked-list)
     - [stack](#stack)
     - [tree](#tree)
+    - [graph](#graph)
     - [heap](#heap)
   - [maths](#maths)
   - [dp](#dp)
@@ -52,6 +53,10 @@ Problems list.
 - [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
 - [1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](./1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
+
+### graph
+
+- [0886_possible-bipartition](./0886_possible-bipartition)
 
 ### heap
 
