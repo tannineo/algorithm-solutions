@@ -56,7 +56,7 @@ Problems list.
 
 ### graph
 
-- [0886_possible-bipartition](./0886_possible-bipartition)
+- [0886_possible-bipartition](./0886_possible-bipartition): basic dfs in graph
 
 ### heap
 
