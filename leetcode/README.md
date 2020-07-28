@@ -14,6 +14,7 @@ Problems list.
   - [dp](#dp)
   - [string](#string)
   - [bitwise](#bitwise)
+  - [divide and conquer](#divide-and-conquer)
   - [misc](#misc)
 
 ## important
@@ -87,6 +88,10 @@ Problems list.
 - [0201_bitwise-and-of-numbers-range](./0201_bitwise-and-of-numbers-range)
 - [0338_counting-bits](./0338_counting-bits)
 - [0476_number-complement](./0476_number-complement)
+
+## divide and conquer
+
+- [0973_k-closest-points-to-origin](./0973_k-closest-points-to-origin)
 
 ## misc
 
