@@ -84,6 +84,7 @@ Problems list.
 ## bitwise
 
 - [0201_bitwise-and-of-numbers-range](./0201_bitwise-and-of-numbers-range)
+- [0338_counting-bits](./0338_counting-bits)
 - [0476_number-complement](./0476_number-complement)
 
 ## misc
