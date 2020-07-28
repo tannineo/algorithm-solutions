@@ -56,6 +56,7 @@ Problems list.
 
 ### graph
 
+- [0207_course-schedule](./0207_course-schedule)
 - [0886_possible-bipartition](./0886_possible-bipartition): basic dfs in graph
 
 ### heap
