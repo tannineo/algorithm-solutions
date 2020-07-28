@@ -119,6 +119,7 @@ Problems list.
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [0986_interval-list-intersections](./0986_interval-list-intersections)
 - [0997_find-the-town-judge](./0997_find-the-town-judge)
+- [1029_two-city-scheduling](./1029_two-city-scheduling): greedy?
 - [1277_count-square-submatrices-with-all-ones](./1277_count-square-submatrices-with-all-ones)
 - [1426_counting-elements](./1426_counting-elements)
 - [1427_perform-string-shifts](./1427_perform-string-shifts)
