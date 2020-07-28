@@ -69,6 +69,7 @@ Problems list.
 ## maths
 
 - [0367_valid-perfect-square](./0367_valid-perfect-square): Newton's Method
+- [0528_random-pick-with-weight](./0528_random-pick-with-weight)
 - [0976_largest-perimeter-triangle](./0976_largest-perimeter-triangle)
 - [1232_check-if-it-is-a-straight-line](./1232_check-if-it-is-a-straight-line): gcd
 
