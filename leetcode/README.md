@@ -114,6 +114,7 @@ Problems list.
 - [0387_first-unique-character-in-a-string](./0387_first-unique-character-in-a-string)
 - [0392_is-subsequence](./0392_is-subsequence)
 - [0402_remove-k-digits](./0402_remove-k-digits): greedy
+- [0406_queue-reconstruction-by-height](./0406_queue-reconstruction-by-height): greedy
 - [0438_find-all-anagrams-in-a-string](./0438_find-all-anagrams-in-a-string)
 - [0451_sort-characters-by-frequency](./0451_sort-characters-by-frequency)
 - [0540_single-element-in-a-sorted-array](./0540_single-element-in-a-sorted-array)
