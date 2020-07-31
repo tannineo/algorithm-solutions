@@ -104,6 +104,7 @@ Problems list.
 
 - [0035_search-insert-position](./0035_search-insert-position): binary search
 - [0049_group-anagrams](./0049_group-anagrams)
+- [0075_sort-colors](./0075_sort-colors)
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0200_number-of-islands](./0200_number-of-islands)
 - [0202_happy-number](./0202_happy-number)
