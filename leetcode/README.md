@@ -22,11 +22,13 @@ Problems list.
 - [0033_search-in-rotated-sorted-array](./0033_search-in-rotated-sorted-array)
   - binary search
 - [0053_maximum-subarray](./0053_maximum-subarray)
-  - dynamic programming, divide and conquer
+  - dp, divide and conquer
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 - [0230_kth-smallest-element-in-a-bst](./0230_kth-smallest-element-in-a-bst)
   - BST, in-order traversal
+- [0518_coin-change-2](./0518_coin-change-2)
+  - dp
 - [0525_contiguous-array](./0525_contiguous-array)
   - "coloring the balloons"
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
