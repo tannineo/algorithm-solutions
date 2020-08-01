@@ -115,6 +115,7 @@ Problems list.
 - [0283_move-zeroes](./0283_move-zeroes)
 - [0344_reverse-string](./0344_reverse-string)
 - [0359_logger-rate-limiter](./0359_logger-rate-limiter)
+- [0380_insert-delete-getrandom-o1](./0380_insert-delete-getrandom-o1): array with map
 - [0383_ransom-note](./0383_ransom-note)
 - [0387_first-unique-character-in-a-string](./0387_first-unique-character-in-a-string)
 - [0392_is-subsequence](./0392_is-subsequence)
