@@ -10,6 +10,8 @@ func isPalindrome(s string) bool {
 			filteredRunes = append(filteredRunes, unicode.ToLower(r))
 		} else if unicode.IsLower(r) {
 			filteredRunes = append(filteredRunes, r)
+		} else if unicode.IsNumber(r) {
+			filteredRunes = append(filteredRunes, r)
 		}
 	}
 
@@ -31,4 +33,6 @@ func main() {
 	println(isPalindrome("A man, a plan, a canal: Panama")) // true
 
 	println(isPalindrome("race a car")) // false
+
+	println(isPalindrome("0P")) // false
 }
