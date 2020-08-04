@@ -71,6 +71,7 @@ Problems list.
 
 ## maths
 
+- [0342_power-of-four](./0342_power-of-four)
 - [0367_valid-perfect-square](./0367_valid-perfect-square): Newton's Method
 - [0528_random-pick-with-weight](./0528_random-pick-with-weight)
 - [0976_largest-perimeter-triangle](./0976_largest-perimeter-triangle)
