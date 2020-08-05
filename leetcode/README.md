@@ -27,6 +27,8 @@ Problems list.
   - bitwise
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
+- [0222_count-complete-tree-nodes](./0222_count-complete-tree-nodes)
+  - binary tree, post-order traversal
 - [0230_kth-smallest-element-in-a-bst](./0230_kth-smallest-element-in-a-bst)
   - BST, in-order traversal
 - [0441_arranging-coins](./0441_arranging-coins)
