@@ -23,6 +23,8 @@ Problems list.
   - binary search
 - [0053_maximum-subarray](./0053_maximum-subarray)
   - dp, divide and conquer
+- [0137_single-number-ii](./0137_single-number-ii)
+  - bitwise
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 - [0230_kth-smallest-element-in-a-bst](./0230_kth-smallest-element-in-a-bst)
