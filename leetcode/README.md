@@ -60,6 +60,7 @@ Problems list.
 ### tree
 
 - [0124_binary-tree-maximum-path-sum](./0124_binary-tree-maximum-path-sum): HARD
+- [0129_sum-root-to-leaf-numbers](./0129_sum-root-to-leaf-numbers)
 - [0208_implement-trie-prefix-tree](./0208_implement-trie-prefix-tree)
 - [0226_invert-binary-tree](./0226_invert-binary-tree)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
