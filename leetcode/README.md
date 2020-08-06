@@ -23,6 +23,8 @@ Problems list.
   - binary search
 - [0053_maximum-subarray](./0053_maximum-subarray)
   - dp, divide and conquer
+- [0096_unique-binary-search-trees](./0096_unique-binary-search-trees)
+  - BST, maths
 - [0137_single-number-ii](./0137_single-number-ii)
   - bitwise
 - [0169_majority-element](./0169_majority-element)
