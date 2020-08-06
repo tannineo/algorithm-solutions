@@ -132,6 +132,7 @@ Problems list.
 - [0402_remove-k-digits](./0402_remove-k-digits): greedy
 - [0406_queue-reconstruction-by-height](./0406_queue-reconstruction-by-height): greedy
 - [0438_find-all-anagrams-in-a-string](./0438_find-all-anagrams-in-a-string)
+- [0442_find-all-duplicates-in-an-array](./0442_find-all-duplicates-in-an-array)
 - [0451_sort-characters-by-frequency](./0451_sort-characters-by-frequency)
 - [0468_validate-ip-address](./0468_validate-ip-address): unreal problem, wrong testcases
 - [0520_detect-capital](./0520_detect-capital)
