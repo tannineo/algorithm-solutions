@@ -33,6 +33,8 @@ Problems list.
   - binary tree, post-order traversal
 - [0230_kth-smallest-element-in-a-bst](./0230_kth-smallest-element-in-a-bst)
   - BST, in-order traversal
+- [0279_perfect-squares](./0279_perfect-squares)
+  - dp, maths
 - [0287_find-the-duplicate-number](./0287_find-the-duplicate-number)
   - Floyd's Tortoise and Hare, cycle detection
 - [0441_arranging-coins](./0441_arranging-coins)
