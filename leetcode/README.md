@@ -68,6 +68,7 @@ Problems list.
 - [0208_implement-trie-prefix-tree](./0208_implement-trie-prefix-tree)
 - [0226_invert-binary-tree](./0226_invert-binary-tree)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
+- [0662_maximum-width-of-binary-tree](./0662_maximum-width-of-binary-tree)
 - [0700_search-in-a-binary-search-tree](./0700_search-in-a-binary-search-tree)
 - [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
