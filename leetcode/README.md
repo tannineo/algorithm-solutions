@@ -70,6 +70,7 @@ Problems list.
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 - [0662_maximum-width-of-binary-tree](./0662_maximum-width-of-binary-tree)
 - [0700_search-in-a-binary-search-tree](./0700_search-in-a-binary-search-tree)
+- [0987_vertical-order-traversal-of-a-binary-tree](./0987_vertical-order-traversal-of-a-binary-tree)
 - [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
 - [1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](./1430_check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)
