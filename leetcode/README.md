@@ -94,6 +94,7 @@ Problems list.
 ## dp
 
 - [0055_jump-game](./0055_jump-game)
+- [0062_unique-paths](./0062_unique-paths)
 - [0064_minimum-path-sum](./0064_minimum-path-sum)
 - [0072_edit-distance](./0072_edit-distance): HARD
 - [0368_largest-divisible-subset](./0368_largest-divisible-subset)
