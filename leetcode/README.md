@@ -113,6 +113,7 @@ Problems list.
 - [0201_bitwise-and-of-numbers-range](./0201_bitwise-and-of-numbers-range)
 - [0231_power-of-two](./0231_power-of-two)
 - [0338_counting-bits](./0338_counting-bits)
+- [0461_hamming-distance](./0461_hamming-distance): turning right most 1
 - [0476_number-complement](./0476_number-complement)
 
 ## divide and conquer
