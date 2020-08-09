@@ -67,6 +67,7 @@ Problems list.
 - [0129_sum-root-to-leaf-numbers](./0129_sum-root-to-leaf-numbers)
 - [0208_implement-trie-prefix-tree](./0208_implement-trie-prefix-tree)
 - [0226_invert-binary-tree](./0226_invert-binary-tree)
+- [0270_closest-binary-search-tree-value](./0270_closest-binary-search-tree-value)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 - [0662_maximum-width-of-binary-tree](./0662_maximum-width-of-binary-tree)
 - [0700_search-in-a-binary-search-tree](./0700_search-in-a-binary-search-tree)
