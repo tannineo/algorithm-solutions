@@ -116,6 +116,7 @@ Problems list.
 - [0338_counting-bits](./0338_counting-bits)
 - [0461_hamming-distance](./0461_hamming-distance): turning right most 1
 - [0476_number-complement](./0476_number-complement)
+- [0957_prison-cells-after-n-days](./0957_prison-cells-after-n-days): preprocess
 
 ## divide and conquer
 
