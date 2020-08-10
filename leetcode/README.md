@@ -154,6 +154,7 @@ Problems list.
 - [0438_find-all-anagrams-in-a-string](./0438_find-all-anagrams-in-a-string)
 - [0442_find-all-duplicates-in-an-array](./0442_find-all-duplicates-in-an-array)
 - [0451_sort-characters-by-frequency](./0451_sort-characters-by-frequency)
+- [0463_island-perimeter](./0463_island-perimeter)
 - [0468_validate-ip-address](./0468_validate-ip-address): unreal problem, wrong testcases
 - [0520_detect-capital](./0520_detect-capital)
 - [0540_single-element-in-a-sorted-array](./0540_single-element-in-a-sorted-array)
