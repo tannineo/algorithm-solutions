@@ -53,6 +53,7 @@ Problems list.
 - [0146_lru-cache](,/0146_lru-cache): double linked list with map
 - [0237_delete-node-in-a-linked-list](./0237_delete-node-in-a-linked-list)
 - [0328_odd-even-linked-list](./0328_odd-even-linked-list)
+- [0430_flatten-a-multilevel-doubly-linked-list](./0430_flatten-a-multilevel-doubly-linked-list)
 - [0876_middle-of-the-linked-list](./0876_middle-of-the-linked-list)
 - [1429_first-unique-number](./1429_first-unique-number): double linked list with map
 
