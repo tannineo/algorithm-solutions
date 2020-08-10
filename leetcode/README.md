@@ -112,6 +112,7 @@ Problems list.
 
 ## bitwise
 
+- [0190_reverse-bits](./0190_reverse-bits)
 - [0201_bitwise-and-of-numbers-range](./0201_bitwise-and-of-numbers-range)
 - [0231_power-of-two](./0231_power-of-two)
 - [0338_counting-bits](./0338_counting-bits)
