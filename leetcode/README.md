@@ -63,6 +63,7 @@ Problems list.
 
 ### tree
 
+- [0100_same-tree](./0100_same-tree)
 - [0107_binary-tree-level-order-traversal-ii](./0107_binary-tree-level-order-traversal-ii)
 - [0124_binary-tree-maximum-path-sum](./0124_binary-tree-maximum-path-sum): HARD
 - [0129_sum-root-to-leaf-numbers](./0129_sum-root-to-leaf-numbers)
