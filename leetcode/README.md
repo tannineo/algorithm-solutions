@@ -142,6 +142,7 @@ Problems list.
 - [0202_happy-number](./0202_happy-number)
 - [0221_maximal-square](./0221_maximal-square)
 - [0238_product-of-array-except-self](./0238_product-of-array-except-self)
+- [0274_h-index](./0274_h-index)
 - [0275_h-index-ii](./0275_h-index-ii)
 - [0278_first-bad-version](./0278_first-bad-version): binary search
 - [0283_move-zeroes](./0283_move-zeroes)
