@@ -33,6 +33,8 @@ Problems list.
   - binary tree, post-order traversal
 - [0230_kth-smallest-element-in-a-bst](./0230_kth-smallest-element-in-a-bst)
   - BST, in-order traversal
+- [0260_single-number-iii](./0260_single-number-iii)
+  - bitwise
 - [0279_perfect-squares](./0279_perfect-squares)
   - dp, maths
 - [0287_find-the-duplicate-number](./0287_find-the-duplicate-number)
