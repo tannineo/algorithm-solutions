@@ -133,6 +133,7 @@ Problems list.
 
 ## misc
 
+- [0003_longest-substring-without-repeating-characters](./0003_longest-substring-without-repeating-characters)
 - [0035_search-insert-position](./0035_search-insert-position): binary search
 - [0049_group-anagrams](./0049_group-anagrams)
 - [0066_plus-one](./0066_plus-one)
