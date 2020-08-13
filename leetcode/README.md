@@ -136,6 +136,7 @@ Problems list.
 
 - [0003_longest-substring-without-repeating-characters](./0003_longest-substring-without-repeating-characters)
 - [0005_longest-palindromic-substring](./0005_longest-palindromic-substring)
+- [0006_zigzag-conversion](./0006_zigzag-conversion)
 - [0035_search-insert-position](./0035_search-insert-position): binary search
 - [0049_group-anagrams](./0049_group-anagrams)
 - [0066_plus-one](./0066_plus-one)
