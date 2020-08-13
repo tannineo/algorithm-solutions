@@ -94,6 +94,7 @@ Problems list.
 
 ## maths
 
+- [0258_add-digits](./0258_add-digits)
 - [0342_power-of-four](./0342_power-of-four)
 - [0367_valid-perfect-square](./0367_valid-perfect-square): Newton's Method
 - [0528_random-pick-with-weight](./0528_random-pick-with-weight)
