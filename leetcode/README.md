@@ -138,6 +138,7 @@ Problems list.
 - [0035_search-insert-position](./0035_search-insert-position): binary search
 - [0049_group-anagrams](./0049_group-anagrams)
 - [0066_plus-one](./0066_plus-one)
+- [0067_add-binary](./0067_add-binary)
 - [0075_sort-colors](./0075_sort-colors)
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0125_valid-palindrome](./0125_valid-palindrome)
