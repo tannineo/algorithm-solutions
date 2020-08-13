@@ -176,6 +176,7 @@ Problems list.
 - [0997_find-the-town-judge](./0997_find-the-town-judge)
 - [1029_two-city-scheduling](./1029_two-city-scheduling): greedy?
 - [1277_count-square-submatrices-with-all-ones](./1277_count-square-submatrices-with-all-ones)
+- [1286_iterator-for-combination](./1286_iterator-for-combination)
 - [1426_counting-elements](./1426_counting-elements)
 - [1427_perform-string-shifts](./1427_perform-string-shifts)
 - [1428_leftmost-column-with-at-least-a-one](./1428_leftmost-column-with-at-least-a-one)
