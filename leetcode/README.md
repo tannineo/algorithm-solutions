@@ -39,6 +39,8 @@ Problems list.
   - dp, maths
 - [0287_find-the-duplicate-number](./0287_find-the-duplicate-number)
   - Floyd's Tortoise and Hare, cycle detection
+- [0435_non-overlapping-intervals](./0435_non-overlapping-intervals)
+  - dp, greedy
 - [0441_arranging-coins](./0441_arranging-coins)
   - solving quadratic equation in one unknown
 - [0518_coin-change-2](./0518_coin-change-2)
