@@ -47,6 +47,8 @@ Problems list.
   - dp
 - [0525_contiguous-array](./0525_contiguous-array)
   - "coloring the balloons"
+- [0621_task-scheduler](./0621_task-scheduler)
+  - greedy
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
   - dp
 
