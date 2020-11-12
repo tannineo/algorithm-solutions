@@ -75,6 +75,7 @@ Problems list.
 - [0096_binary-tree-inorder-traversal](./0096_binary-tree-inorder-traversal)
 - [0100_same-tree](./0100_same-tree)
 - [0101_symmetric-tree](./0101_symmetric-tree)
+- [0104_maximum-depth-of-binary-tree](./0104_maximum-depth-of-binary-tree)
 - [0107_binary-tree-level-order-traversal-ii](./0107_binary-tree-level-order-traversal-ii)
 - [0124_binary-tree-maximum-path-sum](./0124_binary-tree-maximum-path-sum): HARD
 - [0129_sum-root-to-leaf-numbers](./0129_sum-root-to-leaf-numbers)
