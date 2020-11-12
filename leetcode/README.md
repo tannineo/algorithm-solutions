@@ -72,6 +72,7 @@ Problems list.
 
 ### tree
 
+- [0096_binary-tree-inorder-traversal](./0096_binary-tree-inorder-traversal)
 - [0100_same-tree](./0100_same-tree)
 - [0107_binary-tree-level-order-traversal-ii](./0107_binary-tree-level-order-traversal-ii)
 - [0124_binary-tree-maximum-path-sum](./0124_binary-tree-maximum-path-sum): HARD
