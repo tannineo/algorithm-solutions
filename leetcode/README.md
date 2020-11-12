@@ -85,6 +85,7 @@ Problems list.
 - [0429_n-ary-tree-level-order-traversal](./0429_n-ary-tree-level-order-traversal)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 - [0589_n-ary-tree-preorder-traversal](./0589_n-ary-tree-preorder-traversal)
+- [0589_n-ary-tree-preorder-traversal](./0589_n-ary-tree-preorder-traversal)
 - [0662_maximum-width-of-binary-tree](./0662_maximum-width-of-binary-tree)
 - [0700_search-in-a-binary-search-tree](./0700_search-in-a-binary-search-tree)
 - [0987_vertical-order-traversal-of-a-binary-tree](./0987_vertical-order-traversal-of-a-binary-tree)
