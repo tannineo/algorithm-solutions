@@ -77,6 +77,7 @@ Problems list.
 - [0107_binary-tree-level-order-traversal-ii](./0107_binary-tree-level-order-traversal-ii)
 - [0124_binary-tree-maximum-path-sum](./0124_binary-tree-maximum-path-sum): HARD
 - [0129_sum-root-to-leaf-numbers](./0129_sum-root-to-leaf-numbers)
+- [0144_binary-tree-preorder-traversal](./0144_binary-tree-preorder-traversal)
 - [0208_implement-trie-prefix-tree](./0208_implement-trie-prefix-tree)
 - [0226_invert-binary-tree](./0226_invert-binary-tree)
 - [0270_closest-binary-search-tree-value](./0270_closest-binary-search-tree-value)
