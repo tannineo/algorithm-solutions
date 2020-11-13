@@ -95,6 +95,7 @@ Problems list.
 - [0589_n-ary-tree-preorder-traversal](./0589_n-ary-tree-preorder-traversal)
 - [0662_maximum-width-of-binary-tree](./0662_maximum-width-of-binary-tree)
 - [0700_search-in-a-binary-search-tree](./0700_search-in-a-binary-search-tree)
+- [0872_leaf-similar-trees](./0872_leaf-similar-trees)
 - [0965_univalued-binary-tree](./0965_univalued-binary-tree)
 - [0987_vertical-order-traversal-of-a-binary-tree](./0987_vertical-order-traversal-of-a-binary-tree)
 - [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
