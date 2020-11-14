@@ -90,6 +90,7 @@ Problems list.
 - [0145_binary-tree-postorder-traversal](./0145_binary-tree-postorder-traversal)
 - [0208_implement-trie-prefix-tree](./0208_implement-trie-prefix-tree)
 - [0226_invert-binary-tree](./0226_invert-binary-tree)
+- [0257_binary-tree-paths](./0257_binary-tree-paths)
 - [0270_closest-binary-search-tree-value](./0270_closest-binary-search-tree-value)
 - [0429_n-ary-tree-level-order-traversal](./0429_n-ary-tree-level-order-traversal)
 - [0437_path-sum-iii](./0437_path-sum-iii)
