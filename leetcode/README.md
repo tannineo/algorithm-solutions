@@ -211,6 +211,7 @@ Problems list.
 - [0994_rotting-oranges](./0994_rotting-oranges): flood fill
 - [0997_find-the-town-judge](./0997_find-the-town-judge)
 - [1029_two-city-scheduling](./1029_two-city-scheduling): greedy?
+- [1137_n-th-tribonacci-number](./1137_n-th-tribonacci-number)
 - [1277_count-square-submatrices-with-all-ones](./1277_count-square-submatrices-with-all-ones)
 - [1286_iterator-for-combination](./1286_iterator-for-combination)
 - [1426_counting-elements](./1426_counting-elements)
