@@ -53,6 +53,8 @@ Problems list.
   - greedy
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
   - dp
+- [1218_longest-arithmetic-subsequence-of-given-difference](./1218_longest-arithmetic-subsequence-of-given-difference)
+  - dp
 
 ## data structures
 
