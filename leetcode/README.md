@@ -188,6 +188,7 @@ Problems list.
 - [0275_h-index-ii](./0275_h-index-ii)
 - [0278_first-bad-version](./0278_first-bad-version): binary search
 - [0283_move-zeroes](./0283_move-zeroes)
+- [0303_range-sum-query-immutable](./0303_range-sum-query-immutable): prefix sum
 - [0344_reverse-string](./0344_reverse-string)
 - [0359_logger-rate-limiter](./0359_logger-rate-limiter)
 - [0380_insert-delete-getrandom-o1](./0380_insert-delete-getrandom-o1): array with map
