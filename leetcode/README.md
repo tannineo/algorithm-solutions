@@ -143,6 +143,7 @@ Problems list.
 - [0368_largest-divisible-subset](./0368_largest-divisible-subset)
 - [0678_valid-parenthesis-string](./0678_valid-parenthesis-string)
 - [0712_minimum-ascii-delete-sum-for-two-strings](./0712_minimum-ascii-delete-sum-for-two-strings)
+- [0746_min-cost-climbing-stairs](./0746_min-cost-climbing-stairs)
 - [1035_uncrossed-lines](./1035_uncrossed-lines)
 - [1143_longest-common-subsequence](./1143_longest-common-subsequence)
 
