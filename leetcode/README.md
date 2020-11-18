@@ -21,6 +21,8 @@ Problems list.
 
 - [0033_search-in-rotated-sorted-array](./0033_search-in-rotated-sorted-array)
   - binary search
+- [0034_find-first-and-last-position-of-element-in-sorted-array](./0034_find-first-and-last-position-of-element-in-sorted-array)
+  - binary search
 - [0053_maximum-subarray](./0053_maximum-subarray)
   - dp, divide and conquer
 - [0096_unique-binary-search-trees](./0096_unique-binary-search-trees)
