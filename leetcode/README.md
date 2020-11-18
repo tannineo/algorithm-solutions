@@ -53,6 +53,8 @@ Problems list.
   - tree, preorder-traversal, preprocessing
 - [0621_task-scheduler](./0621_task-scheduler)
   - greedy
+- [0704_binary-search](./0704_binary-search)
+  - CLASSIC binary search
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
   - dp
 - [1218_longest-arithmetic-subsequence-of-given-difference](./1218_longest-arithmetic-subsequence-of-given-difference)
