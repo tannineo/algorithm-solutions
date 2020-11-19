@@ -29,6 +29,8 @@ Problems list.
   - BST, maths
 - [0137_single-number-ii](./0137_single-number-ii)
   - bitwise
+- [0142_linked-list-cycle-ii](./0142_linked-list-cycle-ii)
+  - linked list, loop detection
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 - [0222_count-complete-tree-nodes](./0222_count-complete-tree-nodes)
