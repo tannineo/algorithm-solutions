@@ -67,6 +67,7 @@ Problems list.
 ### linked list
 
 - [0002_add-two-numbers](./0002_add-two-numbers)
+- [0021_merge-two-sorted-lists](./0021_merge-two-sorted-lists)
 - [0146_lru-cache](,/0146_lru-cache): double linked list with map
 - [0147_insertion-sort-list](/0147_insertion-sort-list)
 - [0203_remove-linked-list-elements](./0203_remove-linked-list-elements)
