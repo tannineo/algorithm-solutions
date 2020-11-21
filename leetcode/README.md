@@ -230,3 +230,4 @@ Problems list.
 - [1426_counting-elements](./1426_counting-elements)
 - [1427_perform-string-shifts](./1427_perform-string-shifts)
 - [1428_leftmost-column-with-at-least-a-one](./1428_leftmost-column-with-at-least-a-one)
+- [1572_matrix-diagonal-sum](./1572_matrix-diagonal-sum)
