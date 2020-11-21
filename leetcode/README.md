@@ -112,6 +112,7 @@ Problems list.
 - [0508_most-frequent-subtree-sum](./0508_most-frequent-subtree-sum)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
 - [0589_n-ary-tree-preorder-traversal](./0589_n-ary-tree-preorder-traversal)
+- [0617_merge-two-binary-trees](./0617_merge-two-binary-trees)
 - [0662_maximum-width-of-binary-tree](./0662_maximum-width-of-binary-tree)
 - [0669_trim-a-binary-search-tree](./0669_trim-a-binary-search-tree)
 - [0687_longest-univalue-path](./0687_longest-univalue-path)
