@@ -2,4 +2,4 @@
 
 每次选取节点前先把所有链表以第一个节点排序, 取排序后的头部节点.
 
-Advanced(?) method: Priority queue (in Go.. What? using `container/heap`).
+Advanced(?) method: min-heap (in Go.. What? using `container/heap`).
