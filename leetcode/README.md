@@ -164,6 +164,7 @@ Problems list.
 - [0712_minimum-ascii-delete-sum-for-two-strings](./0712_minimum-ascii-delete-sum-for-two-strings)
 - [0746_min-cost-climbing-stairs](./0746_min-cost-climbing-stairs)
 - [1035_uncrossed-lines](./1035_uncrossed-lines)
+- [1048_longest-string-chain](./1048_longest-string-chain): 0300-like dp with string ops.
 - [1143_longest-common-subsequence](./1143_longest-common-subsequence)
 
 ## string
