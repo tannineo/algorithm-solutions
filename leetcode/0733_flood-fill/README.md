@@ -30,5 +30,3 @@ func floodFill(image [][]int, sr int, sc int, newColor int) [][]int {
   return image
 }
 ```
-
-但是堆栈溢出了, 推测是
