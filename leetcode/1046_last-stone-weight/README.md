@@ -5,5 +5,3 @@
 ## 优化 - heap
 
 See ["container/heap"](https://golang.org/pkg/container/heap/)
-
-<!-- TODO -->

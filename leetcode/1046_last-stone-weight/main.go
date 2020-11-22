@@ -1,6 +1,7 @@
 package main
 
 import (
+	"container/heap"
 	"sort"
 )
 
@@ -49,8 +50,50 @@ func lastStoneWeight(stones []int) (result int) {
 	return
 }
 
-func main() {
-	println(lastStoneWeight([]int{2, 7, 4, 1, 8, 1})) // 1
+type StoneHeap []int
 
-	println(lastStoneWeight([]int{3, 7, 8})) // 2
+// sort.Interface
+func (s StoneHeap) Len() int           { return len(s) }
+func (s StoneHeap) Less(i, j int) bool { return s[i] > s[j] }
+func (s StoneHeap) Swap(i, j int)      { s[i], s[j] = s[j], s[i] }
+
+// heap.Interface
+func (s *StoneHeap) Push(x interface{}) {
+	*s = append(*s, x.(int))
+}
+
+func (s *StoneHeap) Pop() interface{} {
+	item := (*s)[len(*s)-1]
+	*s = (*s)[:len(*s)-1]
+	return item
+}
+
+func lastStoneWeightWithHeap(stones []int) int {
+	sh := StoneHeap{}
+
+	heap.Init(&sh)
+
+	for _, v := range stones {
+		heap.Push(&sh, v)
+	}
+
+	for len(sh) > 1 {
+		stone1 := heap.Pop(&sh)
+		stone2 := heap.Pop(&sh)
+		rest := stone1.(int) - stone2.(int)
+		if rest > 0 {
+			heap.Push(&sh, rest)
+		}
+	}
+
+	if len(sh) == 0 {
+		return 0
+	}
+	return heap.Pop(&sh).(int)
+}
+
+func main() {
+	println(lastStoneWeightWithHeap([]int{2, 7, 4, 1, 8, 1})) // 1
+
+	println(lastStoneWeightWithHeap([]int{3, 7, 8})) // 2
 }

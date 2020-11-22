@@ -139,7 +139,7 @@ Problems list.
 
 ### heap
 
-- [1046_last-stone-weight](./1046_last-stone-weight) <!-- TODO -->
+- [1046_last-stone-weight](./1046_last-stone-weight)
 
 ## maths
 
