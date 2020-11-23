@@ -12,14 +12,14 @@ func sortList(head *ListNode) *ListNode {
 	}
 
 	// divide by fast/slow pointers
-	fast, slow := head, head.Next
+	fast, slow := head.Next, head
 	for fast != nil && fast.Next != nil {
 		slow = slow.Next
 		fast = fast.Next.Next
 	}
 	mid := slow.Next
 	slow.Next = nil // to break the link and divide
-	return mergeSortedList(sortList(slow), sortList(mid))
+	return mergeSortedList(sortList(head), sortList(mid))
 }
 
 func mergeSortedList(head1, head2 *ListNode) *ListNode {
@@ -56,5 +56,17 @@ func mergeSortedList(head1, head2 *ListNode) *ListNode {
 		}
 	}
 
+	// tailing
+	if head1 == nil {
+		newCur.Next = head2
+	} else if head2 == nil {
+		newCur.Next = head1
+	}
+
 	return newList
+}
+
+func main() {
+	// 4,2,1,3
+	sortList(&ListNode{4, &ListNode{2, &ListNode{1, &ListNode{3, nil}}}})
 }
