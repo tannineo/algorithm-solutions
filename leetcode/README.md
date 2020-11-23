@@ -87,6 +87,7 @@ Problems list.
 
 ### stack
 
+- [0020_valid-parentheses](./0020_valid-parentheses)
 - [0155_min-stack](./0155_min-stack)
 - [0901_online-stock-span](./0901_online-stock-span)
 
