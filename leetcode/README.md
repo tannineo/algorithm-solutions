@@ -112,6 +112,7 @@ Problems list.
 - [0236_lowest-common-ancestor-of-a-binary-tree](./0236_lowest-common-ancestor-of-a-binary-tree)
 - [0257_binary-tree-paths](./0257_binary-tree-paths)
 - [0270_closest-binary-search-tree-value](./0270_closest-binary-search-tree-value)
+- [0315_count-of-smaller-numbers-after-self](./0315_count-of-smaller-numbers-after-self): HARD, BST
 - [0337_house-robber-iii](./0337_house-robber-iii)
 - [0429_n-ary-tree-level-order-traversal](./0429_n-ary-tree-level-order-traversal)
 - [0437_path-sum-iii](./0437_path-sum-iii)
