@@ -33,6 +33,8 @@ Problems list.
   - bitwise
 - [0142_linked-list-cycle-ii](./0142_linked-list-cycle-ii)
   - linked list, loop detection
+- [0148_sort-list](./0148_sort-list)
+  - linked list, merge sort, divide and conquer
 - [0169_majority-element](./0169_majority-element)
   - hashmap, divide and conquer, voting, randomized, partial sorting ...
 - [0222_count-complete-tree-nodes](./0222_count-complete-tree-nodes)
