@@ -130,6 +130,7 @@ Problems list.
 - [0814_binary-tree-pruning](./0814_binary-tree-pruning)
 - [0872_leaf-similar-trees](./0872_leaf-similar-trees)
 - [0965_univalued-binary-tree](./0965_univalued-binary-tree)
+- [0968_binary-tree-cameras](./0968_binary-tree-cameras): HARD, post-order traversal, dp
 - [0987_vertical-order-traversal-of-a-binary-tree](./0987_vertical-order-traversal-of-a-binary-tree)
 - [0993_cousins-in-binary-tree](./0993_cousins-in-binary-tree)
 - [1008_construct-binary-search-tree-from-preorder-traversal](./1008_construct-binary-search-tree-from-preorder-traversal)
