@@ -95,6 +95,7 @@ Problems list.
 
 - [0096_binary-tree-inorder-traversal](./0096_binary-tree-inorder-traversal)
 - [0098_validate-binary-search-tree](./0098_validate-binary-search-tree)
+- [0099_recover-binary-search-tree](./0099_recover-binary-search-tree): HARD(?), BST, in-order traversal
 - [0100_same-tree](./0100_same-tree)
 - [0101_symmetric-tree](./0101_symmetric-tree)
 - [0102_binary-tree-level-order-traversal](./0102_binary-tree-level-order-traversal)
