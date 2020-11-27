@@ -129,6 +129,7 @@ Problems list.
 - [0669_trim-a-binary-search-tree](./0669_trim-a-binary-search-tree)
 - [0687_longest-univalue-path](./0687_longest-univalue-path)
 - [0700_search-in-a-binary-search-tree](./0700_search-in-a-binary-search-tree)
+- [0701_insert-into-a-binary-search-tree](./0701_insert-into-a-binary-search-tree)
 - [0814_binary-tree-pruning](./0814_binary-tree-pruning)
 - [0872_leaf-similar-trees](./0872_leaf-similar-trees)
 - [0965_univalued-binary-tree](./0965_univalued-binary-tree)
