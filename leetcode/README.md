@@ -53,6 +53,8 @@ Problems list.
   - dp, greedy
 - [0441_arranging-coins](./0441_arranging-coins)
   - solving quadratic equation in one unknown
+- [0450_delete-node-in-a-bst](./0450_delete-node-in-a-bst)
+  - delete a node in a BST, with complex if-else statements
 - [0518_coin-change-2](./0518_coin-change-2)
   - dp
 - [0525_contiguous-array](./0525_contiguous-array)
