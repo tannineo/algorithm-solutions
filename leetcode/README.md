@@ -32,7 +32,7 @@ Problems list.
 - [0137_single-number-ii](./0137_single-number-ii)
   - bitwise
 - [0142_linked-list-cycle-ii](./0142_linked-list-cycle-ii)
-  - linked list, loop detection
+  - linked list, Floyd's Tortoise and Hare, loop detection
 - [0148_sort-list](./0148_sort-list)
   - linked list, merge sort, divide and conquer
 - [0169_majority-element](./0169_majority-element)
@@ -46,7 +46,7 @@ Problems list.
 - [0279_perfect-squares](./0279_perfect-squares)
   - dp, maths
 - [0287_find-the-duplicate-number](./0287_find-the-duplicate-number)
-  - Floyd's Tortoise and Hare, cycle detection
+  - Floyd's Tortoise and Hare, loop detection
 - [0300_longest-increasing-subsequence](./0300_longest-increasing-subsequence)
   - dp, binary search
 - [0435_non-overlapping-intervals](./0435_non-overlapping-intervals)
