@@ -122,6 +122,7 @@ Problems list.
 - [0429_n-ary-tree-level-order-traversal](./0429_n-ary-tree-level-order-traversal)
 - [0437_path-sum-iii](./0437_path-sum-iii)
 - [0449_serialize-and-deserialize-bst](./0449_serialize-and-deserialize-bst)
+- [0501_find-mode-in-binary-search-tree](./0501_find-mode-in-binary-search-tree)
 - [0508_most-frequent-subtree-sum](./0508_most-frequent-subtree-sum)
 - [0530_minimum-absolute-difference-in-bst](./0530_minimum-absolute-difference-in-bst)
 - [0543_diameter-of-binary-tree](./0543_diameter-of-binary-tree)
