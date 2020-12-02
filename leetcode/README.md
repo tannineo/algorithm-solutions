@@ -201,6 +201,7 @@ Problems list.
 
 ## divide and conquer
 
+- [0157_find-minimum-in-rotated-sorted-array](./0157_find-minimum-in-rotated-sorted-array)
 - [0973_k-closest-points-to-origin](./0973_k-closest-points-to-origin)
 
 ## misc
