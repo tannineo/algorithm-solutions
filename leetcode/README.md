@@ -65,6 +65,8 @@ Problems list.
   - greedy
 - [0704_binary-search](./0704_binary-search)
   - CLASSIC binary search
+- [0912_sort-an-array](./0912_sort-an-array)
+  - various kinds of sorting
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
   - dp
 - [1218_longest-arithmetic-subsequence-of-given-difference](./1218_longest-arithmetic-subsequence-of-given-difference)
