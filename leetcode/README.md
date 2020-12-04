@@ -157,6 +157,7 @@ Problems list.
 - [0133_clone-graph](./0133_clone-graph)
 - [0138_copy-list-with-random-pointer](./0138_copy-list-with-random-pointer)
 - [0207_course-schedule](./0207_course-schedule)
+- [0547_friend-circles](./0547_friend-circles): dfs
 - [0886_possible-bipartition](./0886_possible-bipartition): basic dfs in graph
 
 ### heap
