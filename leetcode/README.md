@@ -215,6 +215,7 @@ Problems list.
 - [0130_surrounded-regions](./0130_surrounded-regions): flood fill
 - [0547_friend-circles](./0547_friend-circles): dfs
 - [0695_max-area-of-island](./0695_max-area-of-island): dfs / flood fill
+- [0733_flood-fill](./0733_flood-fill)
 - [0994_rotting-oranges](./0994_rotting-oranges): flood fill
 
 ## misc
@@ -258,7 +259,6 @@ Problems list.
 - [0520_detect-capital](./0520_detect-capital)
 - [0540_single-element-in-a-sorted-array](./0540_single-element-in-a-sorted-array)
 - [0567_permutation-in-string](./0567_permutation-in-string)
-- [0733_flood-fill](./0733_flood-fill)
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [0986_interval-list-intersections](./0986_interval-list-intersections)
