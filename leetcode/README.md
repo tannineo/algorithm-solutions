@@ -216,6 +216,7 @@ Problems list.
 - [0547_friend-circles](./0547_friend-circles): dfs
 - [0695_max-area-of-island](./0695_max-area-of-island): dfs / flood fill
 - [0733_flood-fill](./0733_flood-fill)
+- [0827_making-a-large-island](./0827_making-a-large-island): HARD(?) dfs / flood fill
 - [0994_rotting-oranges](./0994_rotting-oranges): flood fill
 
 ## misc
