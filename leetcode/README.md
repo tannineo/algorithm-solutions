@@ -218,6 +218,7 @@ Problems list.
 - [0733_flood-fill](./0733_flood-fill)
 - [0827_making-a-large-island](./0827_making-a-large-island): HARD(?) dfs / flood fill
 - [0994_rotting-oranges](./0994_rotting-oranges): flood fill
+- [1162_as-far-from-land-as-possible](./1162_as-far-from-land-as-possible): flood fill
 
 ## misc
 
