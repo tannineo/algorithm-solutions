@@ -15,6 +15,7 @@ Problems list.
   - [string](#string)
   - [bitwise](#bitwise)
   - [divide and conquer](#divide-and-conquer)
+  - [depth-first search (dfs)](#depth-first-search-dfs)
   - [misc](#misc)
 
 ## important
@@ -157,7 +158,6 @@ Problems list.
 - [0133_clone-graph](./0133_clone-graph)
 - [0138_copy-list-with-random-pointer](./0138_copy-list-with-random-pointer)
 - [0207_course-schedule](./0207_course-schedule)
-- [0547_friend-circles](./0547_friend-circles): dfs
 - [0886_possible-bipartition](./0886_possible-bipartition): basic dfs in graph
 
 ### heap
@@ -210,6 +210,13 @@ Problems list.
 - [0154_find-minimum-in-rotated-sorted-array-ii](./0154_find-minimum-in-rotated-sorted-array-ii)
 - [0973_k-closest-points-to-origin](./0973_k-closest-points-to-origin)
 
+## depth-first search (dfs)
+
+- [0130_surrounded-regions](./0130_surrounded-regions): flood fill
+- [0547_friend-circles](./0547_friend-circles): dfs
+- [0695_max-area-of-island](./0695_max-area-of-island): dfs / flood fill
+- [0994_rotting-oranges](./0994_rotting-oranges): flood fill
+
 ## misc
 
 - [0003_longest-substring-without-repeating-characters](./0003_longest-substring-without-repeating-characters)
@@ -223,7 +230,6 @@ Problems list.
 - [0075_sort-colors](./0075_sort-colors)
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0125_valid-palindrome](./0125_valid-palindrome)
-- [0130_surrounded-regions](./0130_surrounded-regions): flood fill
 - [0151_reverse-words-in-a-string](./0151_reverse-words-in-a-string)
 - [0171_excel-sheet-column-number](./0171_excel-sheet-column-number)
 - [0200_number-of-islands](./0200_number-of-islands)
@@ -256,7 +262,6 @@ Problems list.
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [0986_interval-list-intersections](./0986_interval-list-intersections)
-- [0994_rotting-oranges](./0994_rotting-oranges): flood fill
 - [0997_find-the-town-judge](./0997_find-the-town-judge)
 - [1029_two-city-scheduling](./1029_two-city-scheduling): greedy?
 - [1137_n-th-tribonacci-number](./1137_n-th-tribonacci-number)
