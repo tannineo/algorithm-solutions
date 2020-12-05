@@ -70,6 +70,9 @@ Problems list.
   - various kinds of sorting
 - [0918_maximum-sum-circular-subarray](./0918_maximum-sum-circular-subarray)
   - dp
+- [1202_smallest-string-with-swaps](./1202_smallest-string-with-swaps)
+  - dfs, union-find
+  - TODO: perfomance issue with maps in golang, need a tool to tack the cost of each call.
 - [1218_longest-arithmetic-subsequence-of-given-difference](./1218_longest-arithmetic-subsequence-of-given-difference)
   - dp
 
@@ -220,7 +223,6 @@ Problems list.
 - [0841_keys-and-rooms](./0841_keys-and-rooms)
 - [0994_rotting-oranges](./0994_rotting-oranges): flood fill
 - [1162_as-far-from-land-as-possible](./1162_as-far-from-land-as-possible): flood fill
-- [1202_smallest-string-with-swaps](./1202_smallest-string-with-swaps): TODO
 
 ## misc
 
