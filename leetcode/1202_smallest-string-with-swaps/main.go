@@ -98,8 +98,6 @@ func smallestStringWithSwapsStillTLE(s string, pairs [][]int) string {
 		return s
 	}
 
-	// byteS := []byte(s)
-
 	// iterate pairs
 	// mapVisited: index -> group of indices
 	mapVisited := map[int]*[]int{}
@@ -165,12 +163,13 @@ func smallestStringWithSwapsStillTLE(s string, pairs [][]int) string {
 		// fmt.Println(*group, "->", string(charsToSwap))
 
 		// replace
+		byteS := []byte(s)
 		for i, n := range *group {
-			s = s[:n] + string(charsToSwap[i]) + s[n+1:]
+			byteS[n] = charsToSwap[i]
 		}
 	}
 
-	return s
+	return string(byteS)
 }
 
 // ----------------------------------------------------------------
@@ -209,10 +208,14 @@ func (u *UnionFindOrg) union(i, j int) {
 	}
 }
 
+// 0    1    2    3
+// 2    2    3    3
+
 func (u *UnionFindOrg) root(i int) int {
 	for u.ids[i] != i {
-		u.ids[i] = u.ids[u.ids[i]]
-		i = u.ids[i]
+		tmp := u.ids[i]
+		u.ids[i] = u.ids[tmp]
+		i = tmp
 	}
 	return i
 }

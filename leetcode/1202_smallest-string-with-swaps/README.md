@@ -7,4 +7,4 @@
 而且有指向自身的边, 注意这个陷阱.
 
 反复的append和delete操作好像很耗时...
-TODO: 性能的比较
+TODO: 性能的比较(pprof). solution代码理解, 代码可能有问题.
