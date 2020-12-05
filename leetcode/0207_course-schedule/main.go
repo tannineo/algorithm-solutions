@@ -12,12 +12,11 @@ func canFinish(numCourses int, prerequisites [][]int) bool {
 
 	// 1. construct graph
 	for _, v := range prerequisites {
-		if v[0] >= numCourses {
+		if v[0] >= numCourses { // all the course occured should be in [0, numCourses)
 			return false
 		}
-
 		if v[1] >= numCourses {
-			continue
+			return false
 		}
 
 		if courses[v[0]] == nil {
