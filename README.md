@@ -24,6 +24,7 @@ LeetCode problem routes reference:
     - or visit other categories on the navi
   - youtube channel: https://www.youtube.com/user/xxfflower
   - bilibili channel: https://space.bilibili.com/9880352
+- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 
 See [the problem list](./leetcode).
 
