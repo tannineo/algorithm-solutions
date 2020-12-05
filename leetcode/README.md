@@ -220,6 +220,7 @@ Problems list.
 - [0841_keys-and-rooms](./0841_keys-and-rooms)
 - [0994_rotting-oranges](./0994_rotting-oranges): flood fill
 - [1162_as-far-from-land-as-possible](./1162_as-far-from-land-as-possible): flood fill
+- [1202_smallest-string-with-swaps](./1202_smallest-string-with-swaps): TODO
 
 ## misc
 
