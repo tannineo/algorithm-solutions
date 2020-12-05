@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"sort"
+	"strings"
 )
 
 type Node struct {
@@ -17,7 +18,7 @@ func (bytes byBytes) Len() int           { return len(bytes) }
 func (bytes byBytes) Less(i, j int) bool { return bytes[i] < bytes[j] }
 func (bytes byBytes) Swap(i, j int)      { bytes[i], bytes[j] = bytes[j], bytes[i] }
 
-func smallestStringWithSwapsSlowVer(s string, pairs [][]int) string {
+func smallestStringWithSwapsTLE(s string, pairs [][]int) string {
 	// only lowercases a-z
 	if len(s) <= 1 {
 		return s
@@ -91,7 +92,7 @@ func dfsWithListAndMap(start *Node, mapNodes map[int]*Node) ([]byte, []int) {
 // ----------------------------------------------------------------
 
 // faster but still TLE
-func smallestStringWithSwaps(s string, pairs [][]int) string {
+func smallestStringWithSwapsStillTLE(s string, pairs [][]int) string {
 	// only lowercases a-z
 	if len(s) <= 1 {
 		return s
@@ -170,6 +171,83 @@ func smallestStringWithSwaps(s string, pairs [][]int) string {
 	}
 
 	return s
+}
+
+// ----------------------------------------------------------------
+
+// Union-Find
+
+type UnionFindOrg struct {
+	ids   []int
+	ranks []int
+}
+
+func newUnionFindOrg(n int) *UnionFindOrg {
+	u := &UnionFindOrg{
+		ids:   make([]int, n),
+		ranks: make([]int, n),
+	}
+	for i := range u.ids {
+		u.ids[i] = i
+	}
+	return u
+}
+
+func (u *UnionFindOrg) union(i, j int) {
+	rootI, rootJ := u.root(i), u.root(j)
+	if rootI == rootJ {
+		return
+	}
+
+	rankI, rankJ := u.ranks[rootJ], u.ranks[rootI]
+	if rankI > rankJ {
+		u.ranks[rankI]++
+		u.ids[rootJ] = rootI
+	} else {
+		u.ranks[rankJ]++
+		u.ids[rootI] = rootJ
+	}
+}
+
+func (u *UnionFindOrg) root(i int) int {
+	for u.ids[i] != i {
+		u.ids[i] = u.ids[u.ids[i]]
+		i = u.ids[i]
+	}
+	return i
+}
+
+func smallestStringWithSwaps(s string, pairs [][]int) string {
+	u := newUnionFindOrg(len(s))
+	for _, pair := range pairs {
+		// build groups
+		u.union(pair[0], pair[1])
+	}
+
+	mapGroupChars := map[int][]int{}
+	for i, ch := range s {
+		// map: group root -> a queue for chars in this group
+		root := u.root(i)
+		if _, ok := mapGroupChars[root]; !ok {
+			mapGroupChars[root] = sort.IntSlice{}
+		}
+		mapGroupChars[root] = append(mapGroupChars[root], int(ch))
+	}
+
+	// sort chars in every group
+	for i := range mapGroupChars {
+		sort.Ints(mapGroupChars[i])
+	}
+
+	res := strings.Builder{}
+	for i := range s {
+		r := mapGroupChars[u.root(i)][0]
+		mapGroupChars[u.root(i)] = mapGroupChars[u.root(i)][1:]
+
+		res.WriteRune(rune(r))
+	}
+
+	return res.String()
 }
 
 func main() {
