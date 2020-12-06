@@ -8,3 +8,7 @@
    - 构建过程中无法仅靠当前prerequisites pair判断...
    - 但是若出现不属于范围内的课程可以直接返回
 2. dfs. 经过的节点做标记. dfs后记得清理现场.
+
+# 联动
+
+[0201_bitwise-and-of-numbers-range](../0201_bitwise-and-of-numbers-range)

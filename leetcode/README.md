@@ -160,7 +160,8 @@ Problems list.
 
 - [0133_clone-graph](./0133_clone-graph)
 - [0138_copy-list-with-random-pointer](./0138_copy-list-with-random-pointer)
-- [0207_course-schedule](./0207_course-schedule)
+- [0207_course-schedule](./0207_course-schedule): dfs/bfs, topological sort
+- [0210_course-schedule-ii](./0210_course-schedule-ii): dfs/bfs, topological sort
 - [0802_find-eventual-safe-states](./0802_find-eventual-safe-states): dfs, iterative dfs
 - [0886_possible-bipartition](./0886_possible-bipartition): basic dfs in graph
 
