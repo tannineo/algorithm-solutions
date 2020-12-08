@@ -240,6 +240,7 @@ Problems list.
 - [0066_plus-one](./0066_plus-one)
 - [0067_add-binary](./0067_add-binary)
 - [0075_sort-colors](./0075_sort-colors)
+- [0121_best-time-to-buy-and-sell-stock](./0121_best-time-to-buy-and-sell-stock)
 - [0122_best-time-to-buy-and-sell-stock-ii](./0122_best-time-to-buy-and-sell-stock-ii)
 - [0125_valid-palindrome](./0125_valid-palindrome)
 - [0151_reverse-words-in-a-string](./0151_reverse-words-in-a-string)
