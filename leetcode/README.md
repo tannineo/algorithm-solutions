@@ -272,6 +272,7 @@ Problems list.
 - [0567_permutation-in-string](./0567_permutation-in-string)
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
+- [0937_reorder-data-in-log-files](./0937_reorder-data-in-log-files)
 - [0986_interval-list-intersections](./0986_interval-list-intersections)
 - [0997_find-the-town-judge](./0997_find-the-town-judge)
 - [1029_two-city-scheduling](./1029_two-city-scheduling): greedy?
