@@ -271,6 +271,7 @@ Problems list.
 - [0520_detect-capital](./0520_detect-capital)
 - [0540_single-element-in-a-sorted-array](./0540_single-element-in-a-sorted-array)
 - [0567_permutation-in-string](./0567_permutation-in-string)
+- [0763_partition-labels](./0763_partition-labels)
 - [0771_jewels-and-stones](./0771_jewels-and-stones)
 - [0844_backspace-string-compare](./0844_backspace-string-compare)
 - [0937_reorder-data-in-log-files](./0937_reorder-data-in-log-files)
