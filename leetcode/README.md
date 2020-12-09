@@ -237,6 +237,7 @@ Problems list.
 - [0035_search-insert-position](./0035_search-insert-position): binary search
 - [0042_trapping-rain-water](./0042_trapping-rain-water): HARD(?)
 - [0049_group-anagrams](./0049_group-anagrams)
+- [0056_merge-intervals](./0056_merge-intervals)
 - [0066_plus-one](./0066_plus-one)
 - [0067_add-binary](./0067_add-binary)
 - [0075_sort-colors](./0075_sort-colors)
